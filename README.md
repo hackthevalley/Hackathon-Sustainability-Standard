@@ -1,4 +1,4 @@
-# Hackathon-Sustainability-Standard-
+# Hackathon-Sustainability-Standard
 ## Global hackathon industry sustainability standard document. 
 ### Sponsor Swag Waste Reduction
 **Objective #1:**
