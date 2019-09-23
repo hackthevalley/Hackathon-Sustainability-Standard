@@ -4,9 +4,9 @@
 
 ## Participating Hackathons
 
-| Hack The Valley                                                                                                                                                                                                                                                                                        |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <img src="https://scontent-yyz1-1.xx.fbcdn.net/v/t35.18174-12/14971741_10209700677786804_781746995_o.png?_nc_cat=103&_nc_oc=AQmjy126b-4-IBz51kf97C4Z0xefPFQhErCcDdf4N6gYuUz56de2DKiV_JDgUp1Mq8s&_nc_ht=scontent-yyz1-1.xx&oh=eec8967042c7a6dec1d5617c5a3a9748&oe=5D5194D2" width="200" height="200" /> |
+| Hack The Valley 4 | Delta Hacks VI |
+| :------------- | ------------: |
+|  
 
 ### Sponsor Swag Waste Reduction
 **Objective #1:**
