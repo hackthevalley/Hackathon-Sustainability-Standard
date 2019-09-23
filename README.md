@@ -4,9 +4,9 @@
 
 ## Participating Hackathons
 
-| Hack The Valley 4 | Delta Hacks VI |
-| :------------- | ------------: |
-|  
+| Hack The Valley 4 |Delta Hacks VI |
+| :-------------: | :------------: |
+|  <img src="./Htv4logo.png" width="300" height="300"> | <img src="./DeltaHackslogo.png" width="300" height="300"> |
 
 ### Sponsor Swag Waste Reduction
 **Objective #1:**
