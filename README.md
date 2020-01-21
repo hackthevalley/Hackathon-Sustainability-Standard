@@ -6,8 +6,9 @@
 
 | Hack The Valley 4 |Delta Hacks VI | Hackville |
 | :-------------: | :------------: | :------------: |
-|  <img src="./Htv4logo.png" width="300" height="300"> | <img src="./DeltaHackslogo.png" width="300" height="300"> |
-
+|  <img src="./logos/Htv4logo.png" width="300" height="300"> | <img src="./logos/DeltaHackslogo.png" width="300" height="300"> | <img src="./logos/Hackville.png" width="300" height="300"> |
+| The Goldenhack | TOHacks | UW EnergyHacks |
+|  <img src="./logos/goldenhack.png" width="300" height="300"> | <img src="./logos/TOHacks.png" width="300" height="300"> | <img src="./logos/energyHacks.png" width="300" height="300"> |
 ### Sponsor Swag Waste Reduction
 **Objective #1:**
 
