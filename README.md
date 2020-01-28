@@ -4,11 +4,11 @@
 
 ## Participating Hackathons
 
-| Hack The Valley 4 |Delta Hacks VI | Hackville |
-| :-------------: | :------------: | :------------: |
-|  <img src="./logos/Htv4logo.png" width="300" height="300"> | <img src="./logos/DeltaHackslogo.png" width="300" height="300"> | <img src="./logos/Hackville.png" width="300" height="300"> |
-| The Goldenhack | TOHacks | UW EnergyHacks |
-|  <img src="./logos/goldenhack.png" width="300" height="300"> | <img src="./logos/TOhacks.png" width="300" height="300"> | <img src="./logos/energyHacks.png" width="300" height="300"> |
+| Hack The Valley 4 |Delta Hacks VI | Hackville | The Goldenhack | TOHacks | UW EnergyHacks |
+| :-------------: | :------------: | :------------: | :-------------: | :------------: | :------------: |
+|  <img src="./logos/Htv4logo.png" width="150" height="150"> | <img src="./logos/DeltaHackslogo.png" width="150" height="150"> | <img src="./logos/Hackville.png" width="150" height="150"> | <img src="./logos/goldenhack.png" width="150" height="150"> | <img src="./logos/TOhacks.png" width="150" height="150"> | <img src="./logos/energyHacks.png" width="150" height="150"> |
+| Make UofT | EduHacks | Hack the Hammer | Hack to TRU |  |  |
+|  <img src="./logos/make-uoft.jpg" width="150" height="150"> | <img src="./logos/eduhacks.png" width="150" height="150"> | <img src="./logos/hack-the-hammer.jpg" width="150" height="150"> | <img src="./logos/tru.png" width="150" height="150"> | | |
 ### Sponsor Swag Waste Reduction
 **Objective #1:**
 
