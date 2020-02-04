@@ -4,7 +4,7 @@
 
 ## Participating Hackathons
 
-| Hack The Valley 4 |Delta Hacks VI | Hackville | The Goldenhack | TOHacks | UW EnergyHacks |
+| Hack The Valley |Delta Hacks | Hackville | The Goldenhack | TOHacks | UW EnergyHacks |
 | :-------------: | :------------: | :------------: | :-------------: | :------------: | :------------: |
 |  <img src="./logos/Htv4logo.png" width="100" height="100"> | <img src="./logos/DeltaHackslogo.png" width="100" height="100"> | <img src="./logos/Hackville.png" width="100" height="100"> | <img src="./logos/goldenhack.png" width="100" height="100"> | <img src="./logos/TOhacks.png" width="100" height="100"> | <img src="./logos/energyHacks.png" width="100" height="100"> |
 | Make UofT | EduHacks | Hack the Hammer | Hack to TRU |  |  |
