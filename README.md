@@ -9,8 +9,8 @@
 |  <img src="./logos/Htv4logo.png" width="100" height="100"> | <img src="./logos/DeltaHackslogo.png" width="100" height="100"> | <img src="./logos/Hackville.png" width="100" height="100"> | <img src="./logos/goldenhack.png" width="100" height="100"> | <img src="./logos/TOhacks.png" width="100" height="100"> | <img src="./logos/energyHacks.png" width="100" height="100"> |
 | **Make UofT** | **EduHacks** | **Hack the Hammer** | **Hack to TRU** | **StarterHacks** | **Electric City Hacks** |
 |  <img src="./logos/make-uoft.jpg" width="100" height="100"> | <img src="./logos/eduhacks.png" width="100" height="100"> | <img src="./logos/hack-the-hammer.jpg" width="100" height="100"> | <img src="./logos/tru.png" width="100" height="100"> | <img src="./logos/starter.jpg" width="100" height="100"> | <img src="./logos/electricCity.png" width="100" height="100"> |
-| **RU Hacks** | **ConUHacks** | **SheHacks** | **HackED** | | |
-| <img src="./logos/ruhacks.png" width="100" height="100">  | <img src="./logos/conUHacks.png" width="100" height="100"> | <img src="./logos/sheHacks.png" width="100"> | <img src="./logos/hacked.png" width="100" height="100"> | | |
+| **RU Hacks** | **ConUHacks** | **SheHacks** | **HackED** | **QHacks** | **UofT Hacks** |
+| <img src="./logos/ruhacks.png" width="100" height="100">  | <img src="./logos/conUHacks.png" width="100" height="100"> | <img src="./logos/sheHacks.png" width="100"> | <img src="./logos/hacked.png" width="100" height="100"> | <img src="./logos/qHacks.jpg" width="100" height="100"> | <img src="./logos/uoftHacks.jpg" width="100" height="100">  |
 ### Sponsor Swag Waste Reduction
 **Objective #1:**
 
